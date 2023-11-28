@@ -10,14 +10,16 @@ if the user does not select any criteria then an error pops up alerting the user
 
 # Screenshots
 
-![screenshot1](../Password-Security/assets/images/Screenshot%20(70).png)
-![screenshot2](../Password-Security/assets/images/Screenshot%20(71).png)
-![screenshot3](../Password-Security/assets/images/Screenshot%20(72).png)
-![screenshot4](../Password-Security/assets/images/Screenshot%20(73).png)
-![screenshot5](../Password-Security/assets/images/Screenshot%20(74).png)
-![screenshot6](../Password-Security/assets/images/Screenshot%20(75).png)
-![screenshot7](../Password-Security/assets/images/Screenshot%20(76).png)
-![screenshot8](../Password-Security/assets/images/Screenshot%20(77).png)
+![Screenshot1](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot1.png?raw=true)
+![Screenshot2](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot2.png?raw=true)
+![Screenshot3](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot3.png?raw=true)
+![Screenshot4](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot4.png?raw=true)
+![Screenshot5](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot5.png?raw=true)
+![Screenshot6](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot6.png?raw=true)
+![Screenshot7](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot7.png?raw=true)
+![Screenshot8](https://github.com/eramsk/Password-Security/blob/main/assets/images/Screenshot8git .png?raw=true)
+
+
 
 
 # github link:
